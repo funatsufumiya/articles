@@ -1,3 +1,7 @@
+license of [quartz4](https://github.com/jackyzha0/quartz), not applied for content folder
+
+----
+
 MIT License
 
 Copyright (c) 2021 jackyzha0
