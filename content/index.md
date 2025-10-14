@@ -7,4 +7,4 @@ title: Home (About)
 記事にコメントしたい場合は、[Discussions](https://github.com/funatsufumiya/articles/discussions)を利用してください。
 https://github.com/funatsufumiya/articles/discussions
 
-記事に誤りがある場合は、[Issues](https://github.com/funatsufumiya/articles/issues)を新規作成するか、[Pull Request](https://github.com/funatsufumiya/articles/pulls)を作成してください。
+記事に誤りがある場合は、[Issue](https://github.com/funatsufumiya/articles/issues)を作成するか、[Pull Request](https://github.com/funatsufumiya/articles/pulls)を作成してください。
