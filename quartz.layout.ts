@@ -10,7 +10,8 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       // GitHub: "https://github.com/jackyzha0/quartz",
-      RSS: "https://funatsufumiya.github.io/articles/index.xml"
+      RSS: "https://funatsufumiya.github.io/articles/index.xml",
+      About: "https://funatsufumiya.github.io/articles/"
       // "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
