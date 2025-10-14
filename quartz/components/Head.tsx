@@ -38,7 +38,7 @@ export default (() => {
 
     return (
       <head>
-        <title>{title} | fu-log</title>
+        <title>{title}</title>
         <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>

@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "fu-log",
-    pageTitleSuffix: "",
+    pageTitleSuffix: " | fu-log",
     enableSPA: true,
     enablePopovers: true,
     analytics: {provider: 'google', tagId: 'G-1L2ZF9ZJZ2' }, 
