@@ -1,5 +1,3 @@
 ---
-title: Index
+title: Home
 ---
-
-Index page
