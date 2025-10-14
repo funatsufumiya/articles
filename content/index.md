@@ -2,7 +2,7 @@
 title: Home (About)
 ---
 
-[Quartz4](github.com/jackyzha0/quartz)を利用した、GitHub Pagesでホストしている個人ブログです（[ソース](https://github.com/funatsufumiya/articles)）。
+[Quartz4](https://github.com/jackyzha0/quartz)を利用した、GitHub Pagesでホストしている個人ブログです（[ソース](https://github.com/funatsufumiya/articles)）。
 
 記事にコメントしたい場合は、[Discussions](https://github.com/funatsufumiya/articles/discussions)を利用してください。
 https://github.com/funatsufumiya/articles/discussions
