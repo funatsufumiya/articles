@@ -2,7 +2,7 @@
 
 https://funatsufumiya.github.io/articles/
 
-GitHub Pagesと[Quartz4](https://github.com/jackyzha0/quartz)を利用した個人ブログです。
+GitHub Pagesと[Quartz4](https://github.com/jackyzha0/quartz)を利用した個人ブログです。技術情報共有が目的です。
 
 `contents`以下のマークダウンを直接開いても読めます。
 
