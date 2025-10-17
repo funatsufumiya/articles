@@ -10,6 +10,4 @@ GitHub Pagesと[Quartz4](https://github.com/jackyzha0/quartz)を利用した個�
 
 記事（`contents`）以外の部分はQuartz4と同じライセンスを適用します。
 
-記事についてはGitHubの利用規約に準拠した利用は可能です。ライセンスは現状明記しません。（より適切なライセンスを検討中です。）
-
-技術情報共有が目的なので、記事中の提供内容自体は自由に活用してください。
+記事（`contents`）についてはCC BY-SA 4.0とします。
