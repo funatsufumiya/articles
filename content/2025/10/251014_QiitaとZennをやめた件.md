@@ -1,6 +1,3 @@
-
-[sizu.meにも投稿した](https://sizu.me/funatsu/posts/tsrb47eceodf)のだけれど、こちらにも転記。
-
 [https://qiita.com/funatsufumiya](https://qiita.com/funatsufumiya)
 
 [https://zenn.dev/funatsufumiya/](https://zenn.dev/funatsufumiya/)
