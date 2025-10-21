@@ -6,6 +6,20 @@ GitHub Pagesと[Quartz4](https://github.com/jackyzha0/quartz)を利用した個�
 
 `contents`以下のマークダウンを直接開いても読めます。
 
+## Dev
+
+### Preview (Local)
+
+```bash
+$ npx quartz build --serv
+```
+
+### Build
+
+```bash
+$ npx quartz build
+```
+
 ## License
 
 記事（`contents`）以外の部分はQuartz4と同じライセンスを適用します。
