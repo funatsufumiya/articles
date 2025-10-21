@@ -22,6 +22,6 @@ $ npx quartz build
 
 ## License
 
-記事（[`content`](./content)）以外の部分は[Quartz4](https://github.com/jackyzha0/quartz)と同じライセンスを適用します。
+記事（[`content`](./content)および生成されたHTMLの記事部分）についてはCC BY-SA 4.0とします。
 
-記事（[`content`](./content)）についてはCC BY-SA 4.0とします。
+それ以外のソースコードは[Quartz4](https://github.com/jackyzha0/quartz)と同じライセンスを適用します。
