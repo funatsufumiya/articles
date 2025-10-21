@@ -11,7 +11,8 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       // GitHub: "https://github.com/jackyzha0/quartz",
       RSS: "https://funatsufumiya.github.io/articles/index.xml",
-      About: "https://funatsufumiya.github.io/articles/"
+      About: "https://funatsufumiya.github.io/articles/",
+      "(CC-BY-SA 4.0)": "https://creativecommons.org/licenses/by-sa/4.0/deed.ja"
       // "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
