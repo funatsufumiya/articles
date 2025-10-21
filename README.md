@@ -11,7 +11,7 @@ GitHub Pagesと[Quartz4](https://github.com/jackyzha0/quartz)を利用した個�
 ### Preview (Local)
 
 ```bash
-$ npx quartz build --serv
+$ npx quartz build --serve
 ```
 
 ### Build
